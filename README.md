@@ -1,5 +1,3 @@
-# YTU_Master-s_Degree_Exam
-YTU Master's degree's midterm and final exams.
-
 # Hashing-Algorithm
+Hashing Algorithm example for YTU Bachelor's degree finals
 ![alt text](https://github.com/BarisDev/Hashing-Algorithm/blob/main/hashing-problem.jpeg?raw=true)
